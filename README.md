@@ -1,6 +1,8 @@
 # basic-chat-app-nodejs
 A basic chat application with Node.js, Express, and Socket.IO.
 
+<img width="800" alt="image" src="https://github.com/chihiroanihr/basic-chat-app-nodejs/assets/42660669/b81eb3b2-2004-4964-ad05-71f528233952">
+
 ### References
 - [Github](https://github.com/Shin-sibainu/real-time-chatapp-using-socket.io/tree/main)
 
